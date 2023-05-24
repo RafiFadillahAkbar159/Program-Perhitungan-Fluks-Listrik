@@ -35,6 +35,6 @@ Program ini akan menghitung fluks listrik.
 | File |      link     |
 | ------ | ------ |
 | Laporan | tempel link disini |
-| Program | https://github.com/marselferrys/TUBES-PKS-2 |
+| Program |  |
 | Program running | https://replit.com/@RAFI-FADILLAHFA/Program-Perhitungan-Fluks-Listrik |
 | Video | https://youtu.be/hYiE39Kufgw |
