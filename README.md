@@ -35,6 +35,6 @@ Program ini akan menghitung fluks listrik.
 | File |      link     |
 | ------ | ------ |
 | Laporan | tempel link disini |
-| Program |  |
+| Program | https://github.com/RafiFadillahAkbar159/TUBES-PKS-2/blob/main/README.md |
 | Program running | https://replit.com/@RAFI-FADILLAHFA/Program-Perhitungan-Fluks-Listrik |
 | Video | https://youtu.be/hYiE39Kufgw |
