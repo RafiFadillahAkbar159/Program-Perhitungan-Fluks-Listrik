@@ -2,9 +2,9 @@
 Program ini akan menghitung fluks listrik.
 
 ## Anggota Kelompok
-1.Richard Alvin Julianto (122130037) Teknik Elektro
-2.Richo Darmawan Arieprasodjo (122130048) Teknik Elektro
-3.Rafi Fadillah Akbar (122130057) Teknik Elektro
+1.	Richard Alvin Julianto (122130037) Teknik Elektro
+2.	Richo Darmawan Arieprasodjo (122130048) Teknik Elektro
+3.	Rafi Fadillah Akbar (122130057) Teknik Elektro
 
 ## Pengantar Komputer & Software 2
 - Nama Dosen: Asep Nurul Ajiid Mustofa, S.T., M.T.
